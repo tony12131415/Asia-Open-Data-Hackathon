@@ -4,4 +4,4 @@
 
 ## Pawtoon(If you'd like to watch the animation, due to resource constraint, please contact tony.th.chi@skysource.com.tw): https://www.powtoon.com/my-powtoons/#/ 
 
-## Demo website: https://asd768999.wixsite.com/safewayhome
+## Demo website(For the code of the website, please also contact tony.th.chi@skysource.com.tw for the developement environment access): https://asd768999.wixsite.com/safewayhome
